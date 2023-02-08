@@ -1,0 +1,1 @@
+This file  is mondatory in projects
